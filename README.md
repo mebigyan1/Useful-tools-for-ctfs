@@ -1,7 +1,8 @@
 # Useful-tools-for-ctfs
 Useful tools for ctfs
 
-- [Substitution Ciphers](#substitution-ciphers)
+- [Ciphers](#ciphers)
 
-## Substitution Ciphers
-1. https://quipqiup.com/
+## Ciphers
+1. https://quipqiup.com/                    - For substitution ciphers
+2. https://www.dcode.fr/vigenere-cipher     - For Vigenere Ciphers
