@@ -11,3 +11,4 @@ Useful tools for ctfs
 ## Debugger and Editor
 1. https://github.com/0xd4d/dnSpy           - For .NET debugging and assembly editing
 2. https://github.com/icsharpcode/ILSpy     - For .NET decompiling with support for PDB generation, ReadyToRun, Metadata (&more) and cross-platform support
+3. https://www.jetbrains.com/decompiler     - For .NET Decompiling and Assembly Browsing
