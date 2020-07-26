@@ -2,8 +2,8 @@
 Useful tools for ctfs
 
 - [Ciphers](#ciphers)
-- [Debugger and Editor](#debugger-and-editor)
 - [Conversions](#conversions)
+- [Debugger and Editor](#debugger-and-editor)
 
 ## Ciphers
 1. https://quipqiup.com/                                      - For substitution ciphers
