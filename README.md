@@ -11,7 +11,7 @@ Useful tools for ctfs
 4. https://www.urlencoder.org/                                - For URL encoder
 5. https://www.base64decode.org/                              - For Base64 decoder
 6. https://www.base64encode.org/                              - For Base64 encoder
-7. http://www.unit-conversion.info/texttools/hexadecimal/
+7. http://www.unit-conversion.info/texttools/hexadecimal/     - For hexadecimal to text conversion
 
 ## Debugger and Editor
 1. https://github.com/0xd4d/dnSpy                             - For .NET debugging and assembly editing
