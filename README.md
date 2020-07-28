@@ -4,6 +4,7 @@ Useful tools for ctfs
 - [Ciphers](#ciphers)
 - [Conversions](#conversions)
 - [Debugger and Editor](#debugger-and-editor)
+- [Network Analyzer](#network-analyzer)
 
 ## Ciphers
 1. https://quipqiup.com/                                      - For substitution ciphers
@@ -20,3 +21,9 @@ Useful tools for ctfs
 1. https://github.com/0xd4d/dnSpy                             - For .NET debugging and assembly editing
 2. https://github.com/icsharpcode/ILSpy                       - For .NET decompiling with support for PDB generation, ReadyToRun, Metadata (&more) and cross-platform support
 3. https://www.jetbrains.com/decompiler                       - For .NET Decompiling and Assembly Browsing
+
+## Network Analyzer
+1. https://nmap.org/                                          - Security Scanner, Port Scanner, Vulnerability analyzer
+
+## Web Application Analyzer
+1. https://www.zaproxy.org/                                   - Web Application Vulnerability Analyzer
