@@ -5,6 +5,7 @@ Useful tools for ctfs
 - [Conversions](#conversions)
 - [Debugger and Editor](#debugger-and-editor)
 - [Network Analyzer](#network-analyzer)
+- [ Web Application Analyzer](#web-application-analyzer)
 
 ## Ciphers
 1. https://quipqiup.com/                                      - For substitution ciphers
