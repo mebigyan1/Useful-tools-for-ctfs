@@ -5,11 +5,13 @@ Useful tools for ctfs
 - [Conversions](#conversions)
 - [Debugger and Editor](#debugger-and-editor)
 - [Network Analyzer](#network-analyzer)
-- [ Web Application Analyzer](#web-application-analyzer)
+- [Web Application Analyzer](#web-application-analyzer)
+- [Miscellaneous](#miscellaneous)
 
 ## Ciphers
 1. https://quipqiup.com/                                      - For substitution ciphers
 2. https://www.dcode.fr/vigenere-cipher                       - For Vigenere Ciphers
+3. https://www.dcode.fr/multitap-abc-cipher                   - For Multi-tap ABC Ciphers
 
 ## Conversions
 1. https://www.urldecoder.org/                                - For URL decoder
@@ -28,3 +30,6 @@ Useful tools for ctfs
 
 ## Web Application Analyzer
 1. https://www.zaproxy.org/                                   - Web Application Vulnerability Analyzer
+
+## Miscellaneous
+1. https://github.com/ribt/dtmf-decoder                       - Dual-tone Multi Frequency Signaling (DTMF) decoder
