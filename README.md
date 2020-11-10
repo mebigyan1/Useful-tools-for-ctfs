@@ -12,6 +12,7 @@ Useful tools for ctfs
 1. https://quipqiup.com/                                      - For substitution ciphers
 2. https://www.dcode.fr/vigenere-cipher                       - For Vigenere Ciphers
 3. https://www.dcode.fr/multitap-abc-cipher                   - For Multi-tap ABC Ciphers
+4. https://www.boxentriq.com/code-breaking/one-time-pad       - For One-Time Pad (OTP)
 
 ## Conversions
 1. https://www.urldecoder.org/                                - For URL decoder
