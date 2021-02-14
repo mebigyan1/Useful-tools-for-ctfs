@@ -34,3 +34,4 @@ Useful tools for ctfs
 
 ## Miscellaneous
 1. https://github.com/ribt/dtmf-decoder                       - Dual-tone Multi Frequency Signaling (DTMF) decoder
+2. https://www.cspisawesome.com/                              - For Generating Content Security Policy
